@@ -31,5 +31,5 @@ my-ethereum-repo/
 ├── tsconfig.json
 ├── README.md
 └── LICENSE
-List the advantages and disadvantages.
+.
 
