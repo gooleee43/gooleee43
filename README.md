@@ -1,7 +1,7 @@
 
 
 <!--
-sitory because its `README.md` (this file) appears on your GitHub profile.
+its `README.md` (this file) appears on your GitHub profile.
 
 
 
