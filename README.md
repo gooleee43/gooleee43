@@ -1,7 +1,7 @@
 
 
 <!--
-rs on your GitHub profile.
+your GitHub profile.
 
 
 
