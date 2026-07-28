@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡: ...
 -->
-my-ethereum-repo/
+-ethereum-repo/
 ├── contracts/
 │   └── MyToken.sol
 ├── scripts/
