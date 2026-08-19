@@ -14,7 +14,7 @@
 - 😄 ...
 - ⚡: ...
 -->
-repo/
+o/
 ├── contracts/
 │   └── MyToken.sol
 ├── scripts/
