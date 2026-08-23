@@ -14,7 +14,7 @@
 - 😄 ...
 - ⚡..
 
-o/
+
 ├── contracts/
 │   └── MyToken.sol
 ├── scripts/
