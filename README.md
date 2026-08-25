@@ -14,7 +14,7 @@
 - 😄 ...
 - ⚡..
 
-contracts/
+racts/
 │   └── MyToken.sol
 ├── scripts/
 │   └── check-balance.js
