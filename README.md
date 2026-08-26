@@ -22,7 +22,7 @@ racts/
 │   └── MyToken.test.js
 ├── .github/
 │   └── workflows/
-│       └── ci.yml
+│      .yml
 ├── .gitignore
 ├── .env.example
 ├── hardhat.config.ts
