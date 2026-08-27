@@ -14,7 +14,7 @@
 - 😄 ...
 - ⚡..
 
-racts/
+cts/
 │   └── MyToken.sol
 ├── scripts/
 │   └── check-balance.js
