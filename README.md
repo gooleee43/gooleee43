@@ -17,7 +17,7 @@
 cts/
 │   └── MyToken.sol
 ├── scripts/
-│   └── ck-balance.js
+│   └── ck-balance
 ├── test/
 │   └── MyToken.test.js
 ├── .github/
