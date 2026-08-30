@@ -14,7 +14,7 @@
 - 😄 ...
 - ⚡..
 
-cts/
+
 │   └── MyToken.sol
 ├── scripts/
 │   └── ck-balance
