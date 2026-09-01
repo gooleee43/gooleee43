@@ -18,7 +18,7 @@
 │   └── MyToken.sol
 ├── ripts/
 │   └── ck-balance
-├── test/
+├──est/
 │   └── MyToken.test.js
 ├── .github/
 │   └── workflows/
