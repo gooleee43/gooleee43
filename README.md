@@ -21,7 +21,7 @@
 ├──est/
 │   └── MyToken.test.js
 ├── .github/
-│   └── workflows/
+│    workflows/
 │      .yml
 ├── .gitignore
 ├── .env.example
