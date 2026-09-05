@@ -15,7 +15,7 @@
 - ⚡..
 
 
-│   └── MyToken.sol
+│  ── MyToken.sol
 ├── ripts/
 │   ck-balance
 ├──est/
