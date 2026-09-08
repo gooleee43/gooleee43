@@ -16,7 +16,7 @@
 
 
 ── MyToken.sol
-├── ripts/
+├──ipts/
 │   ck-balance
 ├──est/
 │   └── MyToken.test.js
