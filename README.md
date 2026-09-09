@@ -15,7 +15,7 @@
 -..
 
 
-── MyToken.sol
+MyToken.sol
 ├──ipts/
 │   ck-balance
 ├──est/
