@@ -15,7 +15,7 @@
 -..
 
 
-MyToken.sol
+yToken.sol
 ├──ipts/
 │   ck-balance
 ├──est/
