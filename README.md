@@ -17,7 +17,7 @@
 
 Token.sol
 ├──ipts/
-│   ck-balance
+│   c-balance
 ├──est/
 │   └── MyToken.test.js
 ├── .github/
