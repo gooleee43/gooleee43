@@ -19,7 +19,7 @@ oken.sol
 ├──ipts/
 │   c-ba
 ├──est/
-│   └── MyToken.test.js
+│   └── MyToken.test.j
 ├── .github/
 │    workflows/
 │      .yml
