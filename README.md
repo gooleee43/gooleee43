@@ -17,7 +17,7 @@
 
 oken.sol
 ├──ipts/
-│   c-ba
+│   c-a
 ├──est/
 │   └── MyToken.test.j
 ├── .github/
