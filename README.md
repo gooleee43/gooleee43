@@ -19,7 +19,7 @@ oken.sol
 ├──ipts/
 │   c-a
 ├──est/
-│   └── Myken.test.j
+│   └── Myken.te
 ├── .github/
 │    workflows/
 │      .yml
