@@ -18,7 +18,7 @@
 en.sol
 ├──ipts/
 │   c-a
-├──est/
+├──st/
 │   └── Myken.te
 ├── .github/
 │    workflows/
