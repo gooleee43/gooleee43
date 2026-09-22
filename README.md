@@ -16,7 +16,7 @@
 
 
 en.sol
-├──ipts/
+├──pts/
 │   c-a
 ├──st/
 │   └── Myken.te
