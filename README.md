@@ -21,7 +21,7 @@ en.sol
 ├──st/
 │   └── Myken.te
 ├── .github/
-│    workflows/
+│   orkflows/
 │      .yml
 ├── .gitignore
 ├── .env.example
