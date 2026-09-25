@@ -17,7 +17,7 @@
 
 en.sol
 ├──pts/
-│   -a
+│   
 ├──st/
 │   └── Myken.te
 ├── .github/
