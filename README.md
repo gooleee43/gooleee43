@@ -20,7 +20,7 @@ en.sol
 │   
 ├──st/
 │   └── Myken.te
-├── .github/
+├── .ithub/
 │   orkflows/
 │      .yml
 ├── .gitignore
