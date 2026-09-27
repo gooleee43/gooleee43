@@ -16,7 +16,7 @@
 
 
 en.sol
-├──pts/
+├─ts/
 │   
 ├──st/
 │   └── Myken.te
