@@ -19,7 +19,7 @@ ol
 ├─/
 │   
 ├──st/
-│   └── Myken.te
+│  ─ Myken.te
 ├── .ithub/
 │   orkflows/
 │      .yml
