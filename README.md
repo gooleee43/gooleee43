@@ -20,7 +20,7 @@ ol
 │   
 ├──st/
 │  ─ Myken.
-├── .ithub/
+├── .thub/
 │   orkflows/
 │      .yml
 ├── .gitignore
