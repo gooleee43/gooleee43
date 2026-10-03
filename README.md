@@ -18,7 +18,7 @@
 ol
 ├─/
 │   
-├──st/
+├──s
 │  ─ Myken.
 ├── .thub/
 │   orkflows/
