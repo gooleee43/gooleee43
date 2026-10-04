@@ -21,7 +21,7 @@ ol
 ├──s
 │  ─ Myken.
 ├── .thub/
-│   orkflows/
+│  kflows/
 │      .yml
 ├── .gitignore
 ├── .env.example
