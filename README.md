@@ -19,7 +19,7 @@ ol
 ├─/
 │   
 ├──s
-│  ─ Myken.
+│  ─ Myk.
 ├── .thub/
 │  kflows/
 │      .yml
