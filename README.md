@@ -21,7 +21,7 @@ ol
 ├──s
 │  ─ Myk.
 ├── .thub/
-│  kflows/
+│ flows/
 │      .yml
 ├── .gitignore
 ├── .env.example
