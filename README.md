@@ -20,7 +20,7 @@ ol
 │   
 ├──s
 │  ─ Myk.
-├── .thub/
+├── .t/
 │ flows/
 │      .yml
 ├── .gitignore
