@@ -19,7 +19,7 @@ ol
 ├─/
 │   
 ├──s
-│  ─ Myk.
+│  ─yk.
 ├── .t/
 │ flows/
 │      .yml
