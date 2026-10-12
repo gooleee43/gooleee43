@@ -22,7 +22,7 @@ l
 │  ─k.
 ├── .t/
 │ flows/
-│      .yml
+│      .y
 ├── .gitignore
 ├── .env.example
 ├── hardhat.config.ts
