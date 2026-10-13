@@ -21,7 +21,7 @@ l
 ├──s
 │  ─k.
 ├── .t/
-│ flows/
+│ flws/
 │      .y
 ├── .gitignore
 ├── .env.example
