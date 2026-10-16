@@ -20,7 +20,7 @@ l
 │   
 ├──
 │  ─.
-├─t/
+├─t
 │ flws/
 │      .y
 ├── .gitignore
