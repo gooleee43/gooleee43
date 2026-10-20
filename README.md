@@ -29,6 +29,6 @@ l
 ├── package.json
 ├── tsconfig.json
 ├── README.md
-└── LICENSE
+└──CENSE
 .
 
