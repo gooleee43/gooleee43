@@ -21,7 +21,7 @@ l
 ├──
 │  ─.
 ├─t
-│ lws/
+│s/
 │      .
 ├── .gitignore
 ├── .env.example
