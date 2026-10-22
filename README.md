@@ -23,7 +23,7 @@ l
 ├─t
 │s/
 │      .
-├── .gitignore
+├── .gitigno
 ├── .env.example
 ├── hardhat.config.ts
 ├── package.json
