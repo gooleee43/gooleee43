@@ -21,7 +21,7 @@ l
 ├──
 │  ─.
 ├─t
-│s/
+
 │      .
 ├── .gitigno
 ├── .env.example
