@@ -24,7 +24,7 @@ t
 
 │      .
 ├── .gitigno
-├── .env.example
+├── .env.ample
 ├── hardhat.config.ts
 ├── package.json
 ├── tsconfig.json
