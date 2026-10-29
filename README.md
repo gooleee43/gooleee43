@@ -23,7 +23,7 @@ l
 t
 
 │      .
-├── .gitigno
+├── .gitign
 ├── .env.ample
 ├── hardhat.config.ts
 ├── package.json
