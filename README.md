@@ -25,7 +25,7 @@ t
 │      .
 ├── .gitign
 ├── .env.ample
-├── hardhat.config.ts
+├── hardhat.coig.ts
 ├── package.json
 ├── tsconfig.json
 ├── README.md
