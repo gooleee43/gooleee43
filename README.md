@@ -23,7 +23,7 @@ l
 t
 
 │      .
-├── .gitign
+├── .gitig
 ├── .env.ample
 ├── hardhat.coig.ts
 ├── package.json
